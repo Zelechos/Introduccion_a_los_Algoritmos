@@ -4,3 +4,5 @@ Introducción a los Algoritmos es un repositorio de dedicado a la traducción de
 
 >ADVERTENCIA:
 >Esta traduccion es para agilizar el estudio del libro para los que no tienen conocimientos en ingles (SE RECOMIENDA APRENDER INGLES!!!).
+
+## Fecha Estimada para Publicacion del Primer Capitulo 30/04/2025
