@@ -6,6 +6,8 @@ responderemos estas preguntas.
 
 ## 1.1 Algoritmos
 
+<p style="text-align: justify;">
+
 De manera informal, un ***algoritmo*** es cualquier procedimiento computacional bien definido que toma
 un valor o un conjunto de valores como ***entrada***  y produce un valor o un conjunto de valores como
 ***salida*** . Por lo tanto, un algoritmo es una secuencia de pasos computacionales que transforman la
@@ -19,21 +21,18 @@ introducir muchas técnicas de diseño y herramientas de análisis estándar. As
 
 Entrada: Una secuencia de $n$ numeros $\langle a_1, a_2,\dots, a_n \rangle$
 
-Salida: Una permutación (reordenación) $\langle a'_1, a'_2, \dots, a'_n \rangle$ de la secuencia de entrada tal que  
-$$a'_1 \leq a'_2 \leq \dots \leq a'_n.$$
+Salida: Una permutación (reordenación) $\langle a'_1, a'_2, \dots, a'_n \rangle$ de la secuencia de entrada tal que  $a'_1 \leq a'_2 \leq \dots \leq a'_n.$
 
 
 Por ejemplo, dada la secuencia de entrada 
-$$
-\langle 31, 41, 59, 26, 41, 58 \rangle,
-$$ 
+$\langle 31, 41, 59, 26, 41, 58 \rangle,$ 
 un algoritmo de ordenamiento devuelve como salida la secuencia 
-$$
-\langle 26, 31, 41, 41, 58, 59 \rangle.
-$$ 
+$\langle 26, 31, 41, 41, 58, 59 \rangle.$ 
 
 Dicha secuencia de entrada se denomina una **instancia del problema de ordenamiento**.  
 En general, una instancia de un problema consiste en la entrada (que satisface las restricciones impuestas en la definición del problema) 
 necesaria para calcular una solución al problema.
 
--- TODO : Continuar en la pagina 6
+</p>
+
+> TODO : Continuar en la pagina 6
