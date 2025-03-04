@@ -6,8 +6,6 @@ responderemos estas preguntas.
 
 ## 1.1 Algoritmos
 
-<p style="text-align: justify;">
-
 De manera informal, un ***algoritmo*** es cualquier procedimiento computacional bien definido que toma
 un valor o un conjunto de valores como ***entrada***  y produce un valor o un conjunto de valores como
 ***salida*** . Por lo tanto, un algoritmo es una secuencia de pasos computacionales que transforman la
@@ -33,6 +31,5 @@ Dicha secuencia de entrada se denomina una **instancia del problema de ordenamie
 En general, una instancia de un problema consiste en la entrada (que satisface las restricciones impuestas en la definición del problema) 
 necesaria para calcular una solución al problema.
 
-</p>
 
 > TODO : Continuar en la pagina 6
